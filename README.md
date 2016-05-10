@@ -12,7 +12,7 @@ JSBin is also opensource licensed under the liberal MIT license allowing communi
 
 [JsFiddler](https://jsfiddle.net/). it provides a custom environment (based on user selections) to test (or fiddle with) your JavaScript, HTML, and CSS code right inside your browser. A quick tour of jsFiddle will give you a better understanding of what it provides and why you should use it.
 
-[Cloud9](https://c9.io/).  You can easily create new workspace, for applications such as: Node.js, WordPress, Django, Rails and of course custom ones. It really makes development much easier, and for beginners it means quicker learning process.
+[Cloud9](https://c9.io/).  You can easily create new workspace, for applications such as: Node.js, WordPress, Django, Rails and of course custom ones. It really makes development much easier, and for beginners it means quicker learning process.  would recommend is [http://ace.ajax.org/](http://ace.ajax.org/) as used by cloud 9 http://c9.io/ 
 
 [Codenvy](https://codenvy.com/). Codenvy on-demand workspaces improve workflow and automate developer bootstrapping to supercharge the agile ethos.
 
