@@ -1,4 +1,4 @@
-### ONLine-CSS3-HTML-JS-frameworks-Editors
+# ONLine Editors CSS3 HTML JS frameworks
 
 
 [JSBIN](http://jsbin.com/?html,js,output). JSBin was created and is actively maintained by well-respected developer Remy Sharp. The idea to develop it came from the need to collaborate interactively with other developers to debug JavaScript code. It has since matured into a robust tool which:
@@ -18,7 +18,7 @@ JSBin is also opensource licensed under the liberal MIT license allowing communi
 
 [Rendera](http://rendera.herokuapp.com/)
 
-#Perfect JS Code
+###Perfect JS Code
 [Code Beautify](http://codebeautify.org/). It’s not a direct JavaScript editor, but it does serve a great purpose, and combined with any of the tools mentioned in the list. It can also be quite powerful.
 
 [codeanywhere](https://codeanywhere.com/). Codeanywhere enables the synchronization with FTP, SSH and even storage sites like Dropbox, to give you access to your files wherever you are. It’s the ultimate tool for web workers on the move. Best of all, it is light weight and fast.
